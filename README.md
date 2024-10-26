@@ -1,3 +1,4 @@
 # 📂 Java Programs Repository
 
-![image](https://github.com/user-attachments/assets/41c1cb5e-e7ec-4ed0-8fe9-8ec9d8a11f24=2|width=400|height=400)
+<img src="![image](https://github.com/user-attachments/assets/8365b7a2-dc09-4391-a85e-8ba9fd3e1fb2)
+" alt="Alt Text" width="300" height="200">
