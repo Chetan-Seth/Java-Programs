@@ -1,3 +1,4 @@
 # 📂 Java Programs Repository
 
-[image](https://github.com/user-attachments/assets/8365b7a2-dc09-4391-a85e-8ba9fd3e1fb2)
+![image](https://github.com/user-attachments/assets/3c6a2fb5-087a-45d1-9ece-fd3cbc0daf73)
+
