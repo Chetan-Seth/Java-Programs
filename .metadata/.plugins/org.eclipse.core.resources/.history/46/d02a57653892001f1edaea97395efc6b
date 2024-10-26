@@ -1,0 +1,16 @@
+package com.Java_Programs;
+
+import java.util.Scanner;
+
+public class FlyodsTriangleProgram {
+
+	public static void main(String[] args) {
+		
+		int n,i,j,k=1;
+		Scanner sc = new Scanner(System.in);
+		n= sc.nextInt();
+		
+
+	}
+
+}
