@@ -1,4 +1,4 @@
 # 📂 Java Programs Repository
 
-![](Files/image.png)
+![](Java-Programs/Files/image.png)
 
