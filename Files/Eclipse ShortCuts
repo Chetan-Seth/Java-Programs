@@ -1,0 +1,52 @@
+
+- Change Variable name throughout the class: 
+  Select--> Alt + Shift + R ---> Rename
+  
+- Run Java Program : Ctrl + Optional(Function Key) + F11  
+  
+- Search a Java File : Ctrl + Shift + R 
+- Change Tabs : Ctrl + PageUP  or Ctrl + PageDown 
+- Jump Forward /Backward : Alt + Left Arrow  or Alt + Right Arrow
+   
+- View Call Hierarchy : Ctrl + Alt + H
+- View Class Hierarchy : Select the class --> F4
+
+
+- Go to a Line ---> Ctrl + L ---> Enter Line Number
+- Jump to Beginning/End of () {} [] ---> Ctrl + Shift  + P
+
+- All UpperCase: Ctrl + Shift + X
+- All LowerCase: Ctrl + Shift + Y
+
+- Delete Entire Row : Ctrl + D
+
+- Move Code Up : Alt + Up
+- Move Code Down: Alt + Down
+ (Up/Down can be done for mulitiple lines also, just select those lines then Alt +Up/Down)
+ 
+ - Surround Code with Various stuff : Alt + Shift + Z
+   For Eg. add try/catch , add if/else, add Loop etc 
+   
+- Shortcut for Creating Getters/Setters or Constructors :
+  Right Click in that class anywhere --> Go to Source
+  
+- Format code : Ctrl + A -->  Ctrl + Shift + F  
+
+- Optimize(Add/Remove) Imports : Ctrl + Shift + O
+
+- Comment / Un-Comment
+  Single Line : Select that line : Ctrl + /
+  Multi Line Comment : Select --> Ctrl + Shift + /
+  
+- Increase/Decrease the Font Size ---> Ctrl + "+" or Ctrl + "-"
+
+- To Complete the Write Code Automatically : Ctrl + Space 
+  For Eg. type (Syso,main,for,while,if,...etc) and 
+  then hit Ctrl + Space--> Select and Enter to auto complete
+  
+- Create/Extract Method : Alt + Shift + M
+- Jump to Method/Variable Implementation --> F3 or Ctrl + Click
+- OutLine of the Class - Ctrl + O   
+
+- To See All the ShortCuts : Ctrl + Shift + L
+~Source: https://www.youtube.com/watch?v=LIGkIGdmHII&list=LL&index=22
