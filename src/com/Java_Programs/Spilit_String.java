@@ -3,7 +3,7 @@ package com.Java_Programs;
 
 public class Spilit_String {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) { 
 
 		String demo = "username: admin";// given String
 		String[] After_Spilit_Array = demo.split(":"); // Spilt based on : and output stored in array
